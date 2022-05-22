@@ -1,0 +1,45 @@
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\appsettings.json
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\core project.exe
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\core project.deps.json
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\core project.runtimeconfig.json
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\core project.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\core project.pdb
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.csproj.AssemblyReference.cache
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.AssemblyInfoInputs.cache
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.AssemblyInfo.cs
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.csproj.CoreCompileInputs.cache
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\scopedcss\bundle\core project.styles.css
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.csproj.CopyComplete
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.dll
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\refint\core project.dll
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.pdb
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\core project.genruntimeconfig.cache
+C:\Users\ltdat6499\Desktop\core project\obj\Debug\net6.0\ref\core project.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ltdat6499\Desktop\core project\bin\Debug\net6.0\System.CodeDom.dll
